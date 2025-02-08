@@ -78,7 +78,7 @@
     "node-fetch": "^2.6.1",
     "node-localstorage": "^2.1.6",
     "ramda": "^0.27.1",
-    "readable-web-to-node-stream": "^3.0.1",
+    "readable-web-to-node-stream": "^3.0.3",
     "reflect-metadata": "^0.1.13",
     "tweetnacl": "^1.0.3",
     "uuid": "^8.3.2"
