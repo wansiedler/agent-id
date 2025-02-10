@@ -73,7 +73,7 @@
     "debug": "^4.3.1",
     "did-jwt": "^4.8.1",
     "did-resolver": "^2.1.2",
-    "inversify": "^5.0.5",
+    "inversify": "^6.1.4",
     "is-promise": "^4.0.0",
     "node-fetch": "^2.6.1",
     "node-localstorage": "^2.1.6",
